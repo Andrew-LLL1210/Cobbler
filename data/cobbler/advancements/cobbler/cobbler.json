@@ -10,13 +10,15 @@
           "text": "/trigger cobbler set 1",
           "color": "light_purple"
         },
-        "or",
+        " or ",
         {
           "text": "0",
           "color": "light_purple"
         },
-        "to enable or disable turning blocks to cobblestone as you mine."
-      ]
+        " to enable or disable turning blocks to cobblestone as you mine."
+      ],
+      "show_toast": false,
+      "announce_to_chat": false
     },
     "criteria": {
       "requirement": {
