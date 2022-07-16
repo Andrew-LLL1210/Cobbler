@@ -1,0 +1,27 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:cobblestone"
+      },
+      "title": "Cobbler",
+      "description": [
+        "Use ",
+        {
+          "text": "/trigger cobbler set 1",
+          "color": "light_purple"
+        },
+        "or",
+        {
+          "text": "0",
+          "color": "light_purple"
+        },
+        "to enable or disable turning blocks to cobblestone as you mine."
+      ]
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  
