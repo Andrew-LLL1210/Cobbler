@@ -1,7 +1,6 @@
 {
     "pack": {
         "pack_format": 10,
-        "description": "Smelt and alloy metals to make tools",
-        "version": "0.0.0.0"
+        "description": "Cobblestone from all stone types"
     }
 }
